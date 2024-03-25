@@ -25,6 +25,7 @@ img{
 
 .container{
   justify-content: center;
+ 
 }
 .details{
   font-size: 20px;
@@ -152,4 +153,7 @@ img{
   }
   .container button:hover {
     background-color: #45a049;
+  }
+  .testcont {
+    max-width: 200px;
   }
